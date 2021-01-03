@@ -1,0 +1,10 @@
+{
+  "name": "cirterion-crawler",
+  "version": "1.0.0",
+  "description": "crawls criterion top 10 films",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "scraperjs": "^1.2.0"
+  }
+}
